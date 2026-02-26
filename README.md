@@ -26,7 +26,7 @@ Starting from the **batch-level `merged.csv` files** generated in Script 02a, th
   - Reports missing metadata columns  
   - Detects potential duplicate well identifiers across batches  
 - Generates a per-batch merge report (rows read, rows retained)  
-- Exports a standardized `merged_multibatch.csv` file  
+- Exports a standardized `merged_raw.csv` file  
 
 All file paths are selected interactively via GUI dialogs (`tcltk`).
 
@@ -59,10 +59,9 @@ Optional but recommended:
 
 The script generates:
 
-- `merged_multibatch.csv`  
-- `file_merge_report.csv`  
+- `merged_raw.csv`  
 
-### `merged_multibatch.csv` contains:
+### `merged_raw.csv` contains:
 
 - All standardized MEANS summary statistics  
 - Preserved filtering flags  
