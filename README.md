@@ -111,4 +111,6 @@ Batch-level MEANS datasets generated from CyteSeer calcium transient measurement
 
 This script was developed by **Michele Buono, Talitha Spanjersberg, Nikki Scheen, Nina van der Wilt** and can be used freely for research purposes, provided appropriate citation of the authors.
 
+**Buono, M. F., Spanjersberg, T., Scheen, N., & van der Wilt, C. N. (2026). KIC Spheroid Calcium Pipeline (Script 02b/03) – Multi-Batch Dataset Integration (v.1.0). Zenodo. https://doi.org/10.5281/zenodo.18799739**
+
 The overall workflow, structure, and clarity of the pipeline were iteratively refined with assistance from **OpenAI – ChatGPT 5.2**, which was used as a tool to improve code organization, documentation, and usability.
